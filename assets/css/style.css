@@ -56,13 +56,6 @@ header nav ul {
 header nav ul li a {
     padding: 10px 15px;
     font-weight: lighter;
-<<<<<<< HEAD
-    font-size: 22px;
-}
-
-section {
-    padding: 60px;
-=======
     font-size: 1.55vw;
     text-shadow: var(--text-shadow);
 }
@@ -71,7 +64,6 @@ header nav ul li a:hover {
     color: var(--secondary-color);
     border-radius: 15px;
     text-shadow: none;
->>>>>>> b6de3e87078dda6f8287fbcf1bc6a42b728fab7f
 }
 
 .hero {
@@ -334,13 +326,6 @@ section {
     margin: 20px 0;
 }
 .contact-info a {
-<<<<<<< HEAD
-    color:#fce138;
-}
-
-footer {
-    background: #fce138;
-=======
     color:var(--primary-color);
 }
 .contact-form input, .contact-form textarea {
@@ -379,40 +364,24 @@ footer {
     justify-content: space-between;
     flex-wrap: wrap;
     background: var(--primary-color);
->>>>>>> b6de3e87078dda6f8287fbcf1bc6a42b728fab7f
     width: 100%;
     padding: 40px 35px;
 }
 footer h2 {
-<<<<<<< HEAD
-    display: inline;
-    color: #024e76;
-=======
     color: var(--secondary-color);
->>>>>>> b6de3e87078dda6f8287fbcf1bc6a42b728fab7f
     font-size: 30px;
     margin: 0;
 }
 footer div {
-<<<<<<< HEAD
-    float: right;
-=======
->>>>>>> b6de3e87078dda6f8287fbcf1bc6a42b728fab7f
     line-height: 1.5;
     text-align: right;
 }
 footer a {
-<<<<<<< HEAD
-    color: #024e76;
-=======
     color: var(--secondary-color);
->>>>>>> b6de3e87078dda6f8287fbcf1bc6a42b728fab7f
 }
 .emoji {
     font-weight: initial !important;
   }
-<<<<<<< HEAD
-=======
 
 .text-left {
     text-align: left;
@@ -525,4 +494,3 @@ footer a {
             order: 3;
         }
 }
->>>>>>> b6de3e87078dda6f8287fbcf1bc6a42b728fab7f
